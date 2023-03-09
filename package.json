@@ -1,0 +1,38 @@
+{
+  "name": "react-jsx",
+  "version": "1.0.0",
+  "description": "Creation of header component in react using JSX and usage of component composition",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygiri-gosai/react-jsx.git"
+  },
+  "keywords": [
+    "React",
+    "JSX",
+    "ReactDOM",
+    "Parcel",
+    "Component",
+    "composition",
+    "React",
+    "element"
+  ],
+  "author": "Jay Gosai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaygiri-gosai/react-jsx/issues"
+  },
+  "homepage": "https://github.com/jaygiri-gosai/react-jsx#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
